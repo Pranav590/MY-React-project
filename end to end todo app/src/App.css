@@ -1,0 +1,24 @@
+.page {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  gap: 10px;
+}
+
+button {
+  padding: 6px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
+
+.todo-list li {
+  margin: 8px 0;
+}
